@@ -1,0 +1,15 @@
+html{
+  box-sizing: border-box;
+}
+*,*::after,*::before{
+  box-sizing: inherit;
+}
+.header{
+  text-align: center;
+}
+.header__logo{
+  padding: 88px 0 60px;
+}
+.menu{
+  border-top: 2px solid #c4c4c4;
+}
